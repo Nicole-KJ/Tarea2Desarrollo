@@ -73,3 +73,8 @@ nav ul li a{
     width:700px;
     margin-left: -100px;
 }
+
+.donate_btn :hover {
+    background: #ef601a;
+    
+}
