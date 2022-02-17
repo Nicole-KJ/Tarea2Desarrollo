@@ -106,7 +106,8 @@ nav ul li a{
 .col-4 {
     padding: 4%;
     flex: 1;
-    margin-left: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 60px;
     background: #687864;
 }
@@ -116,7 +117,7 @@ nav ul li a{
 }
 
 .datos {
-    
+    font-size: 20px;
 }
 
 .content h1{
