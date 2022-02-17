@@ -84,6 +84,7 @@ nav ul li a{
     position: absolute;
     top: 20px;
     left: 55px;
+    right: 55px;
     display: flex;
     font-size: 5em;
     font-weight: bolder;
@@ -105,10 +106,15 @@ nav ul li a{
 }
 
 .content h2 {
+    font-size: 100px;
+    font-weight: 100;
+    margin-top: 25px;
 }
 
 .content p {
-    font-size: 8em;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 15px;
 }
 
 /* FOOTER CSS */
@@ -123,6 +129,7 @@ nav ul li a{
     line-height: 85px;
     font-weight: bold;
     font-size: 18.5px;   
+    margin-top: 25px;
 }
 
 footer {

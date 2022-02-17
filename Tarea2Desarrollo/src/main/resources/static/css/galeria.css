@@ -126,10 +126,15 @@ nav ul li a{
 }
 
 .content h2 {
+    font-size: 100px;
+    font-weight: 100;
+    margin-top: 25px;
 }
 
 .content p {
-    font-size: 8em;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 15px;
 }
 
 /* FOOTER CSS */
@@ -139,6 +144,7 @@ nav ul li a{
     background: #687864;
     border-radius: 1%;
     min-height: 120px;
+    margin-top: 25px;
     text-decoration: none;
     color: #F7F9FB;
     line-height: 85px;
