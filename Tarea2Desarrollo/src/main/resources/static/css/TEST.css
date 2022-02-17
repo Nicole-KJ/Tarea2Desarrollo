@@ -81,8 +81,8 @@ nav ul li a{
 
 .h1Pg {
     position: absolute;
-    top: 20px;
-    left: 55px;
+    top: 25px;
+    left: 60px;
     display: flex;
     font-size: 5em;
     font-weight: bolder;
@@ -93,30 +93,8 @@ nav ul li a{
 
 /* MAIN CONTENT CSS */
 .content{
-    display: inline-block;
     align-items: center; /* se comporta de manera flexible en el div */
     box-sizing: border-box;
-}
-
-.row {
-   width: 100%;
-   display: flex;
-}
-
-.col-4 {
-    padding: 4%;
-    flex: 1;
-    margin-left: 60px;
-    margin-bottom: 60px;
-    background: #687864;
-}
-
-.col-4 img {
-    width: 350px;
-}
-
-.datos {
-    
 }
 
 .content h1{
@@ -124,6 +102,8 @@ nav ul li a{
     font-weight: 100;
     margin-top: 25px;
 }
+
+
 
 .content h2 {
 }
